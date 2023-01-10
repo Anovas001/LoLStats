@@ -1,0 +1,4 @@
+./node_modules
+./.idea
+./LolStats.iml
+./package-lock.json
